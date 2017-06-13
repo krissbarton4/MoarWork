@@ -1,0 +1,9 @@
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\bin\Debug\netcoreapp1.1\Company.deps.json
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\bin\Debug\netcoreapp1.1\Company.runtimeconfig.json
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\bin\Debug\netcoreapp1.1\Company.runtimeconfig.dev.json
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\bin\Debug\netcoreapp1.1\Company.dll
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\bin\Debug\netcoreapp1.1\Company.pdb
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\obj\Debug\netcoreapp1.1\Company.csprojResolveAssemblyReference.cache
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\obj\Debug\netcoreapp1.1\Company.AssemblyInfo.cs
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\obj\Debug\netcoreapp1.1\Company.dll
+C:\Users\kriss.barton\Desktop\Projects\Company\Company\obj\Debug\netcoreapp1.1\Company.pdb
